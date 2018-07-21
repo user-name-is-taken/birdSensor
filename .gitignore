@@ -1,0 +1,6 @@
+*.py[co]
+*.p[xz]
+*.json
+bird_backups/tweet_and_delete.py
+uncompyle/
+*keys.py

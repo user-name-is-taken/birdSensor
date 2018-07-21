@@ -1,5 +1,5 @@
 *.py[co]
-*.p[xz]
+*.p[xz]~
 *.json
 bird_backups/tweet_and_delete.py
 uncompyle/
